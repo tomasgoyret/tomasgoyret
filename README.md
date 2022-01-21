@@ -1,6 +1,6 @@
 <h1> Hola, Bienvenido a mi perfil! 👋 </h1>
 
-<img src=https://www.canva.com/design/DAE2Grz9sLM/view />
+<img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE2Grz9sLM&#x2F;view?embed" />
 
 <h2>Soy una persona con pasión por los negocios y la tecnología. Esto me llevó a estudiar Administración, emprender, trabajar en distintos negocios y ahora a desarrollarme como programador web fullstack.
 </h2>
