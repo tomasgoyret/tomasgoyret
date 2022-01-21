@@ -1,6 +1,13 @@
 <h1> Hola, Bienvenido a mi perfil! 👋 </h1>
 
-<img src='https://www.canva.com/design/DAE2Grz9sLM/W0QQuHU1WudtmTNrwKr4Dw/view?utm_content=DAE2Grz9sLM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>
+<div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE2Grz9sLM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE2Grz9sLM&#x2F;view?utm_content=DAE2Grz9sLM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">«Examínate y no te contentes con lo que eres si quieres llegar a lo que no eres.Porque en el instante que te complazcas contigo mismo, te habrás parado ". San Agustín</a
 
 <h2>Soy una persona con pasión por los negocios y la tecnología. Esto me llevó a estudiar Administración, emprender, trabajar en distintos negocios y ahora a desarrollarme como programador web fullstack.
 </h2>
