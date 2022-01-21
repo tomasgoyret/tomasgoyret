@@ -22,7 +22,12 @@
   
 
 - Trabajo en equipo, esfuerzo y constancia
-
+- Relaciones interpersonales.
+- Compromiso.
+- Planificación y organización.
+- Resiliencia
+- Scrum
+- Perseverancia
 - Me gusta aceptar nuevos desafíos, asumir riesgos, estar en constante aprendizaje, resolver problemas y escalar las soluciones
 
 
