@@ -33,7 +33,7 @@
 
 
     
-## - Contactame
+## Contactame
 
 <div >
 <a href="https://www.linkedin.com/in/tomasgoyret/" ><img width="3%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> https://www.linkedin.com/in/tomasgoyret// &nbsp;
