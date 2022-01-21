@@ -4,7 +4,11 @@
 
 <h3>Soy una persona con pasión por los negocios y la tecnología. Esto me llevó a estudiar Administración, emprender, trabajar en distintos negocios y ahora a desarrollarme como programador web fullstack.
 </h3>
- 
+<br>
+<br>
+ <br>
+ <br>
+
 <h3> Tech Skills </h3>
 <div align="center">
 <img  width=10% alt=javascript src=https://i.ibb.co/vxZcqxs/Dise-o-sin-t-tulo-9.png />
