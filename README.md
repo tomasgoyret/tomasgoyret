@@ -1,6 +1,6 @@
 <h1> Hola, Bienvenido a mi perfil! 👋 </h1>
 
-![Examinate / Fondo: Ruta 1, California](https://res.cloudinary.com/tomasgoyret/image/upload/v1642794851/Exam%C3%ADnate_y_no_te_contentes_con_lo_que_eres_si_quieres_llegar_a_lo_que_no_eres.Porque_en_el_instante_que_te_complazcas_contigo_mismo_te_habr%C3%A1s_parado_._San_Agust%C3%ADn_yzxxuk.gif)
+![Examinate / Fondo: Ruta 1, California](https://res.cloudinary.com/tomasgoyret/image/upload/v1642795398/Portada_wnvgp9.gif)
 
 <h2>Soy una persona con pasión por los negocios y la tecnología. Esto me llevó a estudiar Administración, emprender, trabajar en distintos negocios y ahora a desarrollarme como programador web fullstack.
 </h2>
