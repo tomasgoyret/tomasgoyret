@@ -5,7 +5,10 @@
 <br>
 <br>
 <br>
-<h2>Soy una persona con pasión por los negocios y la tecnología. Esto me llevó a estudiar Administración, emprender, trabajar en distintos negocios y ahora a desarrollarme como programador web fullstack.
+<h2>Í
+Me gustan los negocios y la tecnología por que creo que son la mejor forma de solucionar problemas. Me motiva
+aprender haciendo y me gusta trabajar de forma sistémica y con un plan claro, mejor en equipo. Si puedo
+ayudarte, con gusto lo haré.
 </h2>
 <br>
 <br>
