@@ -2,12 +2,15 @@
 
 ![Examinate / Fondo: Ruta 1, California](https://res.cloudinary.com/tomasgoyret/image/upload/v1642795398/Portada_wnvgp9.gif)
 
-<h3>Soy una persona con pasión por los negocios y la tecnología. Esto me llevó a estudiar Administración, emprender, trabajar en distintos negocios y ahora a desarrollarme como programador web fullstack.
-</h3>
 <br>
 <br>
- <br>
- <br>
+<br>
+<h2>Soy una persona con pasión por los negocios y la tecnología. Esto me llevó a estudiar Administración, emprender, trabajar en distintos negocios y ahora a desarrollarme como programador web fullstack.
+</h2>
+<br>
+<br>
+<br>
+
 
 <h3> Tech Skills </h3>
 <div align="center">
