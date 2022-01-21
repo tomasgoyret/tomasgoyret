@@ -1,14 +1,8 @@
-<h1> Hola, Bienvenido a mi perfil! 👋 </h1>
+# Hola, Bienvenido a mi perfil! 👋
 
 ![Examinate / Fondo: Ruta 1, California](https://res.cloudinary.com/tomasgoyret/image/upload/v1642796379/Exam%C3%ADnate_y_no_te_contentes_con_lo_que_eres_si_quieres_llegar_a_lo_que_no_eres._Porque_en_el_instante_que_te_complazcas_contigo_mismo_te_habr%C3%A1s_parado_._San_Agust%C3%ADn_x8dlac.gif)
 
-<h2>
-Me gustan los negocios y la tecnología por que creo que son la mejor forma de solucionar problemas. Me motiva
-aprender haciendo y me gusta trabajar de forma sistémica y con un plan claro, mejor en equipo. Si puedo
-ayudarte, con gusto lo haré.
-</h2>
-<br>
-<br>
+## Me gustan los negocios y la tecnología por que creo que son la mejor forma de solucionar problemas. Me motiva aprender haciendo y me gusta trabajar de forma sistémica y con un plan claro, mejor en equipo. Si puedo ayudarte, con gusto lo haré.
 
 
 <h3> Tech Skills </h3>
